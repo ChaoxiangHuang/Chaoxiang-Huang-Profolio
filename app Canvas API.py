@@ -6,10 +6,10 @@ import openai
 
 # Canvas Configuration
 #CANVAS_API_URL = 'https://canvas.instructure.com/api/v1/'
-#CANVAS_API_TOKEN = '7~vhDygKN4qMjKoWLYl0tCKvS7QkH14eElCBx15yVfQOgzxDNdpFpSb1YaB3o26XQU'
-#COURSE_ID = '7820498'
+#CANVAS_API_TOKEN = '*****************'
+#COURSE_ID = '******'
 
-#API_KEY = "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"
+#API_KEY = "***********************************A"
 #openai.api_key = API_KEY
 #model_id = 'gpt-3.5-turbo'
 
