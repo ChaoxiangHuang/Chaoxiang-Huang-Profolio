@@ -13,7 +13,7 @@ import pickle
 # we can deploy the folder together with shiny for python website
 #saving with name.csv file that keep the content user generate, next time they to pick it up by using their's name.csv to upadte the content to keep working ,only all the information being generated then processing to render them to the docxtemplate
 #GPT API Setting
-API_KEY = "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"
+API_KEY = "*********************************"
 openai.api_key = API_KEY
 model_id = 'gpt-3.5-turbo'
 
